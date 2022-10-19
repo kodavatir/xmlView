@@ -1,0 +1,11 @@
+{
+  "name": "xmlview",
+  "version": "1.0.0",
+  "description": "first xml view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramesh Kodavati",
+  "license": "ISC"
+}
